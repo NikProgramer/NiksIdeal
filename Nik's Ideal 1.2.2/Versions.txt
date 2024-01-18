@@ -1,0 +1,33 @@
+Nik's Ideal pack: 
+First version of the pack
+Better Leaves (Bushy Leaves)
+Unubtrisive (rain, snow)
+Lower (Shield, fire)
+Hardcore health (normal health looks like a health in hardcore mode)
+Enchant (Yellow Enchant Glint)
+Clearer water (water is transperenter)
+
+
+Nik's Ideal pack 1.1.0: 
+No Better Leaves (for optimization)
+
+
+Nik's Ideal pack 1.1.1: 
+Better (faster) glint
+
+
+Nik's Ideal pack 1.1.1 (green glint): 
+Enchant glint is green
+
+
+Nik's Ideal pack 1.2.0: 
+Better Grass (Saturation grass)
+
+
+Nik's Ideal pack 1.2.1: 
+Health no more like in hardcore, but more matte
+
+
+Nik's Ideal pack 1.2.2: 
+Removed connected bookshelfs (textures are stacked on top of each other), added that note
+

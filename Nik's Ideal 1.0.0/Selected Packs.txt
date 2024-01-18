@@ -1,0 +1,16 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	DiminishingTools
+	CircleLogTops
+	ClearerWater
+	117Ores
+	ConnectedBookshelves
+	QuieterRain
+	QuieterNetherPortals
+	TransparentPumpkin
+	SmallerUtilities
+	3DSunMoon
+	3DSugarcane
+	NumberedHotbar
+	BedrockExplosion

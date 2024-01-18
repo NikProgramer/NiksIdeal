@@ -1,0 +1,48 @@
+Nik's Ideal pack: 
+First version of the pack
+Better Leaves (Bushy Leaves)
+Unubtrisive (rain, snow)
+Lower (Shield, fire)
+Hardcore health (normal health looks like a health in hardcore mode)
+Enchant (Yellow Enchant Glint)
+Clearer water (water is transperenter)
+Diminishing Tools (steps of crack)
+Clear Water (More transparent)
+1.17 Ores (new ores textures on old versions)
+3D Sun and Moon
+3D Sugar cane
+Numbered Hotbar (numbers of slots in hotbar)
+Bedrock Explosion (explosions are pixel like on berock version)
+Enchant glint is orange
+
+Nik's Ideal pack 1.1.0: 
+No Better Leaves (for optimization)
+
+
+Nik's Ideal pack 1.1.1: 
+Better (faster) enchant glint
+
+
+Nik's Ideal pack 1.1.1 (green glint): 
+Enchant glint is green
+
+
+Nik's Ideal pack 1.2.0: 
+Better Grass (Saturation grass)
+
+
+Nik's Ideal pack 1.2.1: 
+Health no more like in hardcore, but more matte
+
+
+Nik's Ideal pack 1.2.2: 
+Removed connected bookshelfs (textures are stacked on top of each other), added that note "Versions.txt"
+
+
+Nik's Ideal pack 1.2.3:
+Particle of critical hit now orange, xp bar now more matte
+
+
+Nik's Ideal pack 1.2.4:
+Now redstone dust is 3D
+Corrected mistakes in this "Versions.txt"
